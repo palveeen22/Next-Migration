@@ -1,5 +1,7 @@
 # Migration Next.js 14.2.4
 
+this is example repository for refactoring and migration from page router next to app router next js and also from js to ts
+
 - How to run
   </br>
   ` npm install --force`
@@ -21,4 +23,3 @@ Bonus:
 () Selected users profile card also has the Answers of the user (from user.answers array)
 () If the user doesn't have answers then there should be no answers and no "Answers" header
 () Create a loading animation
-# Next-Migration
